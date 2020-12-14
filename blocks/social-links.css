@@ -1,0 +1,25 @@
+.social-links ul {
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    max-width: 250px;
+}
+.social__list{
+    list-style: none;
+
+}
+.social_image{
+ transition: .2s;
+}
+
+.social_image:hover{
+
+    fill: #D04B38;
+}
+.social-link{
+    display: block;
+    width:30px;
+    height:30px;
+    margin-right: 20px;
+    padding: 0;
+}

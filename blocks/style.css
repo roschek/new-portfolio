@@ -1,0 +1,16 @@
+@import url("./header.css");
+@import url("./button.css");
+@import url("./social-links.css");
+@import url("./about.css");
+@import url('./technologies.css');
+@import url('./portfolio.css');
+@import url('./contacts.css');
+* {
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+    color: lavender;
+}
